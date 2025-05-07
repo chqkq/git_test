@@ -1,3 +1,6 @@
 first
+<<<<<<< HEAD
 second
 third.
+=======
+>>>>>>> parent of 47703eb (third commit)
